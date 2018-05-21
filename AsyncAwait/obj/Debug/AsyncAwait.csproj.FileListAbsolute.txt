@@ -1,0 +1,17 @@
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\App.g.cs
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait_MarkupCompile.cache
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait_MarkupCompile.lref
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\MainWindow.baml
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.g.resources
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ТогузбаевА\source\repos\AsyncAwait\AsyncAwait\bin\Debug\Newtonsoft.Json.xml
